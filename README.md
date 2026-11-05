@@ -4,6 +4,12 @@
 
 # **crewAI**
 
+## About
+- **What it is:** An untouched copy of CrewAI, an open-source framework for running teams of AI agents.
+- **Business:** learning
+- **Status:** inactive since 2024-03
+- **Source:** agent research 2026-11-04
+
 🤖 **crewAI**: Cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
 <h3>
